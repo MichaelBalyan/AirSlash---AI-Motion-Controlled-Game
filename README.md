@@ -1,0 +1,2 @@
+# AirSlash---AI-Motion-Controlled-Game
+Repository-ում լրացնելու համար (About բաժնի համար) քեզ պետք է շատ կարճ և բովանդակալից տեքստ: Ահա լավագույն տարբերակը.  Description:  🎮 An interactive AI-powered fruit slicing game using real-time webcam hand tracking and gesture recognition. Built with JavaScript and MediaPipe.
