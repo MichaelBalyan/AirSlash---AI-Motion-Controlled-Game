@@ -2,7 +2,7 @@
 🎮 An interactive AI-powered fruit slicing game using real-time webcam hand tracking and gesture recognition. Built with JavaScript and MediaPipe.
 
 <p align="center">
-    <img src="AirSlashAnimations.gif" width="800">
+    <img src="AirSlashAnimations.gif" width="800" alt="AirSlash.gif">
   </p>
   <p align="center">
     <a href="https://airslash-game.netlify.app/">Live Demo</a>
